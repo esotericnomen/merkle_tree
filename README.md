@@ -1,4 +1,4 @@
 merkle_tree
 ===========
 
-Merkle Tree implementation for block device
+[Incomplete] Merkle Tree implementation for block device
